@@ -8,7 +8,7 @@ https://kplus-livecdn.fptplay.net/hdevent/14022022k1cine_2000.stream/playlist.m3
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
-#KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=NTJlMDY0NGUtOTgzZS0zOGNiLTgyMWMtODc3ZDlhMjM2N2E4
+#KODIPROP:inputstream.adaptive.license_key=https://api.fptplay.net/api/v6.2_a/user/info?st=HPYWPITRCCpnL-VzgWKBGA&e=1645440219&version=4.22.4&source=mobile&version_code=1099&nettype=3g&device=FPT%20Play%20Mobile%20%28version%3A7.1.2%2Cmodel%3ASCL23%29&drm=1&mac_address=90:B6:86:D0:8E:52
 
 https://kplus-livecdn.fptplay.net/MjQ5OTUwODZ8MTQwMjIwMjJrMWNpbmVfMjAwMC5zdHJlYW18dm5wdHwxNjQ1NDI1ODE1fDExMy4xODUuNzkuMTEzfDM3YWJlZGNlZmM2YWU3NmM3YjNkN2IyZGEwMWExYjk0/drmlive/14022022k1cine_2000.stream/manifest.mpd
 
