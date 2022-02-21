@@ -8,7 +8,7 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
-#KODIPROP:inputstream.adaptive.license_key=https://api.fptplay.net/api/util/force_update_app_ver/android?st=_OJGN3kwe0lHHOAvhwDo-w&e=1645440215&version=4.22.4&source=mobile&version_code=1099&nettype=3g&device=FPT%20Play%20Mobile%20%28version%3A7.1.2%2Cmodel%3ASCL23%29&drm=1&mac_address=90:B6:86:D0:8E:52
+#KODIPROP:inputstream.adaptive.license_key=https://api.peer5.com/peer5.js?id=dx8k4sjscbht91dmv1rl
 
 https://kplus-livecdn.fptplay.net/MjQ5OTUwODZ8MTQwMjIwMjJrMWNpbmVfMjAwMC5zdHJlYW18dm5wdHwxNjQ1NDI1ODE1fDExMy4xODUuNzkuMTEzfDM3YWJlZGNlZmM2YWU3NmM3YjNkN2IyZGEwMWExYjk0/drmlive/14022022k1cine_2000.stream/manifest.mpd
 
