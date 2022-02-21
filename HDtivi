@@ -3,6 +3,15 @@
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🍬 K+" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KCINE.png", K+Cine HD
 https://kplus-livecdn.fptplay.net/hdevent/14022022k1cine_2000.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="kcinehd" group-title="🍬 K+" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KCINE.png", K+Cine
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=NTJlMDY0NGUtOTgzZS0zOGNiLTgyMWMtODc3ZDlhMjM2N2E4
+
+https://kplus-livecdn.fptplay.net/MjQ5OTUwODZ8MTQwMjIwMjJrMWNpbmVfMjAwMC5zdHJlYW18dm5wdHwxNjQ1NDI1ODE1fDExMy4xODUuNzkuMTEzfDM3YWJlZGNlZmM2YWU3NmM3YjNkN2IyZGEwMWExYjk0/drmlive/14022022k1cine_2000.stream/manifest.mpd
+
 #EXTINF:-1 tvg-id="kcinehd" group-title="🍬 K+(VIP)" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KCINE.png", K+Cine
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 
