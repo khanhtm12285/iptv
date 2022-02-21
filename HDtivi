@@ -8,7 +8,7 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
-#KODIPROP:inputstream.adaptive.license_key=https://api.peer5.com/peer5.js?id=dx8k4sjscbht91dmv1rl
+#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=dx8k4sjscbht91dmv1rl
 
 https://kplus-livecdn.fptplay.net/MjQ5OTUwODZ8MTQwMjIwMjJrMWNpbmVfMjAwMC5zdHJlYW18dm5wdHwxNjQ1NDI1ODE1fDExMy4xODUuNzkuMTEzfDM3YWJlZGNlZmM2YWU3NmM3YjNkN2IyZGEwMWExYjk0/drmlive/14022022k1cine_2000.stream/manifest.mpd
 
