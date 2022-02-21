@@ -1,14 +1,14 @@
 #EXTM3U url-tvg="http://gg.gg/epgvn03"
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🍬 K+" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KCINE.png", K+Cine HD
-https://livecdn.fptplay.net/hdevent/14022022k1cine_2000.stream/playlist.m3u8
+#https://livecdn.fptplay.net/hdevent/14022022k1cine_2000.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="🍬 K+" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KCINE.png", K+Cine
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
-#KODIPROP:inputstream.adaptive.license_key=https://api.fptplay.net/api/v6.2_a/user/info?st=HPYWPITRCCpnL-VzgWKBGA&e=1645440219&version=4.22.4&source=mobile&version_code=1099&nettype=3g&device=FPT%20Play%20Mobile%20%28version%3A7.1.2%2Cmodel%3ASCL23%29&drm=1&mac_address=90:B6:86:D0:8E:52
+#KODIPROP:inputstream.adaptive.license_key=https://api.fptplay.net/api/util/force_update_app_ver/android?st=_OJGN3kwe0lHHOAvhwDo-w&e=1645440215&version=4.22.4&source=mobile&version_code=1099&nettype=3g&device=FPT%20Play%20Mobile%20%28version%3A7.1.2%2Cmodel%3ASCL23%29&drm=1&mac_address=90:B6:86:D0:8E:52
 
 https://kplus-livecdn.fptplay.net/MjQ5OTUwODZ8MTQwMjIwMjJrMWNpbmVfMjAwMC5zdHJlYW18dm5wdHwxNjQ1NDI1ODE1fDExMy4xODUuNzkuMTEzfDM3YWJlZGNlZmM2YWU3NmM3YjNkN2IyZGEwMWExYjk0/drmlive/14022022k1cine_2000.stream/manifest.mpd
 
