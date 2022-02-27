@@ -25,8 +25,3 @@ https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_sport1hd/default/i.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://license-sgn.solocoo.tv/wv?c=cpi%3A2%3AywnfP4bYLvfRFI8tSmJOXtUjkeWbesCLpu1I3IWMyfI%3AMTp7YzoiUW5xQVFzaG1jMHV1dnNSWGtLcUZMZ0FBQUFJIixsOiJ2aV9WTiIsbWY6MTYsb2Y6MSx0czoxNjQ1OTUwODM4OTY1LHU6IjZmNzJlN2IzLTdhYjAtMWU5Mi1jMWIzLTdkZmRhZWNkMjkyNCIsZGU6NixsZjowfQ
 https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_sport2hd/default/i.mpd
 
-#EXTINF:-1 tvg-id="kkidshd" group-title="K+ MyK+" tvg-logo="https://vthanh.xyz/ic/188.png", K+KIDS HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://license-sgn.solocoo.tv/wv?c=cpi%3A2%3A4oN1Yakuv2AqpRhWRMiwPDce-8nTSldXCrRGG8t1dM8%3AMTp7YzoiUW5xQVFzaG1jMHV1dnNSWGtLcUZMZ0FBQUFVIixsOiJ2aV9WTiIsbWY6MTYsb2Y6MSx0czoxNjQ1OTUwODM5NjIxLHU6IjZmNzJlN2IzLTdhYjAtMWU5Mi1jMWIzLTdkZmRhZWNkMjkyNCIsZGU6NixsZjowfQ
-https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_kidshd/default/i.mpd
