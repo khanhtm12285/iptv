@@ -5,7 +5,7 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
-#KODIPROP:inputstream.adaptive.license_key=https://drmtoday.vieon.vn/license-proxy-widevine/cenc/?logRequestId=1aa4a9e8f41a1eee34a000300de7808e&assetId=livetv_origin_drm_kplus_1
+#KODIPROP:inputstream.adaptive.license_key=https://drmtoday.vieon.vn/license-proxy-widevine/cenc/?logRequestId=1aa4a9e8f41a1eee34a000300de7808e
 
 https://sgn-vnpt-001-livecdn-vthn2-vnd.vieon.vn/7d8e2797913d8fdca027f539f8ca3f4c/1646030645227/wz/livetv_origin_drm/kplus_1_22_08_2021_android.smil/manifest.mpd
 
