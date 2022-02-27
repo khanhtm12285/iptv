@@ -1,0 +1,27 @@
+#EXTM3U url-tvg="http://onetv.click/schedule/epg.xml" m3uautoload=1
+#Thời gian: 27/02/2022 15:33:56 (GMT+7)
+
+#EXTINF:-1 tvg-id="kcinehd" group-title="K+ MyK+" tvg-logo="https://vthanh.xyz/ic/95.png", K+CINE HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://license-sgn.solocoo.tv/wv?c=cpi%3A2%3AImTUeJrVMsxH-lnuMO-KddY2BdVkTjy3vuNwlxfubto%3AMTp7YzoiUW5xQVFzaG1jMHV1dnNSWGtLcUZMZ0FBQUFNIixsOiJ2aV9WTiIsbWY6MTYsb2Y6MSx0czoxNjQ1OTUwODM3MDI3LHU6IjZmNzJlN2IzLTdhYjAtMWU5Mi1jMWIzLTdkZmRhZWNkMjkyNCIsZGU6NixsZjowfQ
+https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_cinehd/default/i.mpd
+
+#EXTINF:-1 tvg-id="klifehd" group-title="K+ MyK+" tvg-logo="https://vthanh.xyz/ic/96.png", K+LIFE HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://license-sgn.solocoo.tv/wv?c=cpi%3A2%3A7seseVqSSvKjrXquR4HkZZmIVKVhWYBcnwGFxyuo5Pk%3AMTp7YzoiUW5xQVFzaG1jMHV1dnNSWGtLcUZMZ0FBQUFRIixsOiJ2aV9WTiIsbWY6MTYsb2Y6MSx0czoxNjQ1OTUwODM3NjgyLHU6IjZmNzJlN2IzLTdhYjAtMWU5Mi1jMWIzLTdkZmRhZWNkMjkyNCIsZGU6NixsZjowfQ
+https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_lifehd/default/i.mpd
+
+#EXTINF:-1 tvg-id="ksport1hd" group-title="K+ MyK+" tvg-logo="https://vthanh.xyz/ic/97.png", K+SPORT1 HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://license-sgn.solocoo.tv/wv?c=cpi%3A2%3A2mKpfaoYI2PHh9hZZGP222G6VAOBzukqdqWeyu0JPgc%3AMTp7YzoiUW5xQVFzaG1jMHV1dnNSWGtLcUZMZ0FBQUFFIixsOiJ2aV9WTiIsbWY6MTYsb2Y6MSx0czoxNjQ1OTUwODM4MzIzLHU6IjZmNzJlN2IzLTdhYjAtMWU5Mi1jMWIzLTdkZmRhZWNkMjkyNCIsZGU6NixsZjowfQ
+https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_sport1hd/default/i.mpd
+
+#EXTINF:-1 tvg-id="ksport2hd" group-title="K+ MyK+" tvg-logo="https://vthanh.xyz/ic/98.png", K+SPORT2 HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://license-sgn.solocoo.tv/wv?c=cpi%3A2%3AywnfP4bYLvfRFI8tSmJOXtUjkeWbesCLpu1I3IWMyfI%3AMTp7YzoiUW5xQVFzaG1jMHV1dnNSWGtLcUZMZ0FBQUFJIixsOiJ2aV9WTiIsbWY6MTYsb2Y6MSx0czoxNjQ1OTUwODM4OTY1LHU6IjZmNzJlN2IzLTdhYjAtMWU5Mi1jMWIzLTdkZmRhZWNkMjkyNCIsZGU6NixsZjowfQ
+https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_sport2hd/default/i.mpd
+
