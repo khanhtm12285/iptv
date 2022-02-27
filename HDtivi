@@ -1,13 +1,7 @@
 #EXTM3U url-tvg="http://gg.gg/epgvn03"
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="🍬 K+(VIP)" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KCINE.png", K+Cine
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#KODIPROP:inputstream.adaptive.license_key=https://drmtoday.vieon.vn/license-proxy-widevine/cenc/vmx_device_id=666ddf0a1cf019107c3938f19a133b9d
-
-https://sgn-vnpt-001-livecdn-vthn2-vnd.vieon.vn/7d8e2797913d8fdca027f539f8ca3f4c/1646030645227/wz/livetv_origin_drm/kplus_1_22_08_2021_android.smil/manifest.mpd
+https://bsojv7x1zq.vcdn.com.vn/manifest/k-plus-1/playlist_720p.m3u8
 
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="🍬 K+(VIP)" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KCINE.png", K+Cine
