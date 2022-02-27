@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="http://onetv.click/schedule/epg.xml" m3uautoload=1
 
+
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+ MyK+" tvg-logo="https://vthanh.xyz/ic/95.png", K+CINE HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
