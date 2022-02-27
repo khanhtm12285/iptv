@@ -3,9 +3,9 @@
 #EXTINF:-1 tvg-id="kcinehd" group-title="🍬 K+(VIP)" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KCINE.png", K+Cine
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=com.verify.alpha
 
-#KODIPROP:inputstream.adaptive.license_key=https://sdrm.vgame.us/verify?key=LUsKFhHUV9mT5RlUSSuV3wNMzyqciWb6fhAswIctHu4%3D&chanel=k-plus-1&mode=live
+#KODIPROP:inputstream.adaptive.license_key=https://sdrm.vgame.us/verify?key=LUsKFhHUV9mT5RlUSSuV3wNMzyqciWb6fhAswIctHu4%3D
 https://bsojv7x1zq.vcdn.com.vn/manifest/k-plus-1/playlist_720p.m3u8
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="🍬 K+(VIP)" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KCINE.png", K+Cine
