@@ -1075,5 +1075,3 @@ http://127.0.0.1:6878/ace/getstream?id=cb7ec7de999e89d0235e35e85f528e46f66f238c
 #EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/281.png" group-title="♻️|Ace_Kênh Việt2",HOA BINH TV
 http://127.0.0.1:6878/ace/getstream?id=6d1ec2c76dcd36ec2a813604bc7b3ab8a48e883b
 
-#EXTINF:-1 group-title="Thời gian" tvg-logo="https://cdn.hqth.me/vthanhtivi.png", 27/02/2022 17:39:23
-https://vthanh.xyz/hls/laudaitinhai.m3u8
