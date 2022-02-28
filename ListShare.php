@@ -1,0 +1,18 @@
+<?php
+
+$pass=$_GET['pass'];
+if ($pass!="admin-khanh" && $pass!="test" && $pass!="test12345678"){
+    header('HTTP/1.0 403 Forbidden');exit;
+}
+
+echo file_get_contents($server = (isset($_SERVER['HTTPS']) && 
+$_SERVER['HTTPS'] === 'on' ? "https" : "http")."://$_SERVER[HTTP_HOST]"."/vtvvip-noshare.php");
+
+echo file_get_contents('http://bit.ly/listmytvrtp');
+
+echo file_get_contents('http://gg.gg/90phuttv');
+
+date_default_timezone_set('Asia/Ho_Chi_Minh'); if (date_default_timezone_get()) {     echo 'date_default_timezone_set: ' . date_default_timezone_get() . ' '; } echo date('d/m/Y H:i:s');
+
+?>
+
