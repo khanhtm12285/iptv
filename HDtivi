@@ -1094,7 +1094,6 @@ http://95.211.250.54:80/POLSAT_SPORT/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent="BearTV"
 https://srv1.adriatelekom.com/FightNetwork/index.m3u8
 
-
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/10qMHdt/beinpre1-BEARTV.png" group-title="KÊNH THỂ THAO",Bein Sports Prem 1
 #EXTVLCOPT:http-user-agent="BearTV"
 http://bestsave.ltd:2052/live/11112222/22221111/74852.ts
@@ -1104,7 +1103,6 @@ http://bestsave.ltd:2052/live/11112222/22221111/74853.ts
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/gDDTzMw/beinpre3-BEARTV.png" group-title="KÊNH THỂ THAO",Bein Sports Prem 3
 #EXTVLCOPT:http-user-agent="BearTV"
 http://bestsave.ltd:2052/live/11112222/22221111/74854.ts
-
 
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/DRDn679/kok-BEARTV.png" group-title="KÊNH THỂ THAO", KOK UFC
 https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
