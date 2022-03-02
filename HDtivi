@@ -882,6 +882,16 @@ http://103.125.191.32:8000/live2
 #https://e1.endpoint.cdn.sctvonline.vn/secure/sctv15/sd1/index.m3u8?md5=npxSf8DiNb6h-lo6eNV-ow&expires=2556118740|Referer=http://sctvonline.vn/
 https://l9v8fomqgzliv.vcdn.cloud/live/htv-thethao/chunklist_2.m3u8
 
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/10qMHdt/beinpre1-BEARTV.png" group-title="💓LIVE SPORT💓",Bein Sports Prem 1
+#EXTVLCOPT:http-user-agent="BearTV"
+http://bestsave.ltd:2052/live/11112222/22221111/74852.ts
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/VCzL53X/beinpre2-BEARTV.png" group-title="💓LIVE SPORT💓",Bein Sports Prem 2
+#EXTVLCOPT:http-user-agent="BearTV"
+http://bestsave.ltd:2052/live/11112222/22221111/74853.ts
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/gDDTzMw/beinpre3-BEARTV.png" group-title="💓LIVE SPORT💓",Bein Sports Prem 3
+#EXTVLCOPT:http-user-agent="BearTV"
+http://bestsave.ltd:2052/live/11112222/22221111/74854.ts
+
 
 #EXTINF:-1 tvg-id="hbo" tvg-logo="https://fpthcm.com.vn/wp-content/uploads/2021/05/hbo.jpg" group-title="♻️|Ace_Kênh Việt2",HBO HD
 http://127.0.0.1:6878/ace/getstream?id=896570e72a165769e4c7c5564421462522326c99
@@ -1085,24 +1095,3 @@ http://127.0.0.1:6878/ace/getstream?id=899775d4bba3aa74280a4f57b08114affd948374
 http://127.0.0.1:6878/ace/getstream?id=cb7ec7de999e89d0235e35e85f528e46f66f238c
 #EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/281.png" group-title="♻️|Ace_Kênh Việt2",HOA BINH TV
 http://127.0.0.1:6878/ace/getstream?id=6d1ec2c76dcd36ec2a813604bc7b3ab8a48e883b
-
-#EXTINF: 0 tvg-id="" group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/JrrmZdB/onegolf-HD-BEARTV.png", ONE GOLF HD
-http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/f018nh3/POLSATSPORT-BEARTV.png" group-title="KÊNH THỂ THAO",POLSAT SPORT
-http://95.211.250.54:80/POLSAT_SPORT/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/FBbX7jn/Fight-Network-BEARTV.png" ,Fight Network
-#EXTVLCOPT:http-user-agent="BearTV"
-https://srv1.adriatelekom.com/FightNetwork/index.m3u8
-
-#EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/10qMHdt/beinpre1-BEARTV.png" group-title="KÊNH THỂ THAO",Bein Sports Prem 1
-#EXTVLCOPT:http-user-agent="BearTV"
-http://bestsave.ltd:2052/live/11112222/22221111/74852.ts
-#EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/VCzL53X/beinpre2-BEARTV.png" group-title="KÊNH THỂ THAO",Bein Sports Prem 2
-#EXTVLCOPT:http-user-agent="BearTV"
-http://bestsave.ltd:2052/live/11112222/22221111/74853.ts
-#EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/gDDTzMw/beinpre3-BEARTV.png" group-title="KÊNH THỂ THAO",Bein Sports Prem 3
-#EXTVLCOPT:http-user-agent="BearTV"
-http://bestsave.ltd:2052/live/11112222/22221111/74854.ts
-
-#EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/DRDn679/kok-BEARTV.png" group-title="KÊNH THỂ THAO", KOK UFC
-https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
