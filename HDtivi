@@ -1096,7 +1096,6 @@ http://95.211.250.54:80/POLSAT_SPORT/tracks-v1a1/mono.m3u8
 https://srv1.adriatelekom.com/FightNetwork/index.m3u8
 
 
-
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/10qMHdt/beinpre1-BEARTV.png" group-title="KÊNH THỂ THAO",Bein Sports Prem 1
 #EXTVLCOPT:http-user-agent="BearTV"
 http://bestsave.ltd:2052/live/11112222/22221111/74852.ts
