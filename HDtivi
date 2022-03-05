@@ -1187,13 +1187,3 @@ https://e1.endpoint.cdn.sctvonline.vn/secure/sctv15/sd1/index.m3u8?md5=npxSf8DiN
 #EXTINF:-1 group-title="💓LIVE SPORT💓" tvg-logo="https://cdn6.aptoide.com/imgs/0/f/5/0f58057e61c6dedaa2c2814850ac7aff.png", Live 3
 #https://e1.endpoint.cdn.sctvonline.vn/secure/sctv15/sd1/index.m3u8?md5=npxSf8DiNb6h-lo6eNV-ow&expires=2556118740|Referer=http://sctvonline.vn/
 https://l9v8fomqgzliv.vcdn.cloud/live/htv-thethao/chunklist_2.m3u8
-
-#EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/10qMHdt/beinpre1-BEARTV.png" group-title="💓LIVE SPORT💓",Bein Sports Prem 1
-#EXTVLCOPT:http-user-agent="BearTV"
-http://bestsave.ltd:2052/live/11112222/22221111/74852.ts
-#EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/VCzL53X/beinpre2-BEARTV.png" group-title="💓LIVE SPORT💓",Bein Sports Prem 2
-#EXTVLCOPT:http-user-agent="BearTV"
-http://bestsave.ltd:2052/live/11112222/22221111/74853.ts
-#EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/gDDTzMw/beinpre3-BEARTV.png" group-title="💓LIVE SPORT💓",Bein Sports Prem 3
-#EXTVLCOPT:http-user-agent="BearTV"
-http://bestsave.ltd:2052/live/11112222/22221111/74854.ts
