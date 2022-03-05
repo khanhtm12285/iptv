@@ -446,7 +446,7 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd2/index.m3u8|Referer=http:
 https://pprex49o5aliv.vcdn.cloud/live/box-hits/chunklist_2.m3u8
 
 #EXTINF:-1 tvg-id="boxhits" group-title="📺|QUỐC TẾ" tvg-logo="https://vthanh.xyz/ic/242.png", Box Hits
-http://cdnmega.vthanh.xyz/boxhits/mpegts
+#http://cdnmega.vthanh.xyz/boxhits/mpegts
 
 #EXTINF:-1 tvg-id="inthebox" group-title="📺|QUỐC TẾ" tvg-logo="https://1.bp.blogspot.com/-i5iPMUP7o2Q/YP61PW6bvvI/AAAAAAAAMqI/1IEtRZwUGJYKbpWQngu7blgjmxuCmDwMgCNcBGAsYHQ/s0/kenh-inthebox-mien-phi-tren-vtvcab.jpg"  catchup="append" catchup-days="0.3" catchup-source="https://8387100975.vws.vegacdn.vn/live/box-channel/chunklist_2_${start}.m3u8", In The Box
 #http://192.53.113.67/Inthebox/index.m3u8
