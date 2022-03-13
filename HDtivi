@@ -1,5 +1,26 @@
 #EXTM3U url-tvg="http://gg.gg/epgvn03"
 
+#EXTINF:-1 tvg-id="boxmovie1" group-title="📦| In The Box" tvg-logo="https://vthanh.xyz/ic/192.png", Box Movie 1
+http://vn1.vthanhtivii.xyz:8080/boxmovie1/mpegts
+#EXTINF:-1 tvg-id="hollywoodclassics" group-title="📦| In The Box" tvg-logo="https://vthanh.xyz/ic/193.png", Hollywood Classics
+http://vn1.vthanhtivii.xyz:8080/hollywoodclassics/mpegts
+#EXTINF:-1 tvg-id="inthebox" group-title="📦| In The Box" tvg-logo="https://vthanh.xyz/ic/241.png", In The Box
+http://vn1.vthanhtivii.xyz:8080/inthebox/mpegts
+#EXTINF:-1 tvg-id="boxhits" group-title="📦| In The Box" tvg-logo="https://vthanh.xyz/ic/242.png", Box Hits
+http://vn1.vthanhtivii.xyz:8080/boxhits/mpegts
+#EXTINF:-1 tvg-id="man" group-title="📦| In The Box" tvg-logo="https://vthanh.xyz/ic/243.png", Man
+http://vn1.vthanhtivii.xyz:8080/man/mpegts
+#EXTINF:-1 tvg-id="drfithd" group-title="📦| In The Box" tvg-logo="https://vthanh.xyz/ic/196.png", Dr.Fit
+http://vn1.vthanhtivii.xyz:8080/drfit/mpegts
+#EXTINF:-1 tvg-id="happykids" group-title="📦| In The Box" tvg-logo="https://vthanh.xyz/ic/194.png", Happy Kids
+http://vn1.vthanhtivii.xyz:8080/happykids/mpegts
+#EXTINF:-1 tvg-id="musicbox" group-title="📦| In The Box" tvg-logo="https://vthanh.xyz/ic/240.png", Music Box
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://livecdn.fptplay.net/hda3/music_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="planetearthhd" group-title="📦| In The Box" tvg-logo="https://vthanh.xyz/ic/195.png", Planet Earth
+http://vn1.vthanhtivii.xyz:8080/planetearth/mpegts
+#EXTINF:-1 tvg-id="woman" group-title="📦| In The Box" tvg-logo="https://vthanh.xyz/ic/197.png", Woman
+http://vn1.vthanhtivii.xyz:8080/woman/mpegts
 #EXTINF:-1 tvg-id="dmax" group-title="🎬| Giải trí" tvg-logo="https://vthanh.xyz/ic/186.png", DMAX
 http://vn1.vthanhtivii.xyz:8080/dmax/mpegts
 #EXTINF:-1 tvg-id="hits" group-title="🎬| Giải trí" tvg-logo="https://vthanh.xyz/ic/249.png", HITS
