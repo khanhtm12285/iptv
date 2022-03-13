@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="http://gg.gg/epgvn03"
 
-#EXTINF:-1 tvg-id="boxmovie1" group-title="📦| In The Box" tvg-logo="https://vthanh.xyz/ic/192.png", Box Movie 1
-http://vn1.vthanhtivii.xyz:8080/boxmovie1/mpegts
+#EXTINF:-1 tvg-id="hollywoodclassics" group-title="📦| In The Box" tvg-logo="https://vthanh.xyz/ic/193.png", Hollywood Classics
+http://185.209.15.78:8082/1234/12345678/37488?token=WmpMeUhZVWttS2RMa01U
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="📦| In The Box" tvg-logo="https://vthanh.xyz/ic/193.png", Hollywood Classics
 http://vn1.vthanhtivii.xyz:8080/hollywoodclassics/mpegts
 #EXTINF:-1 tvg-id="inthebox" group-title="📦| In The Box" tvg-logo="https://vthanh.xyz/ic/241.png", In The Box
