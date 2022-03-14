@@ -4,7 +4,7 @@ http://vn1.vthanhtivii.xyz:8080/hollywoodclassics/mpegts
 #EXTINF:-1 tvg-id="inthebox" group-title="📦| In The Box" tvg-logo="https://vthanh.xyz/ic/241.png", In The Box
 http://vn1.vthanhtivii.xyz:8080/inthebox/mpegts
 #EXTINF:-1 tvg-id="boxhits" group-title="📦| In The Box" tvg-logo="https://vthanh.xyz/ic/242.png", Box Hits
-http://vn1.vthanhtivii.xyz:8080/boxhits/mpegts
+#http://vn1.vthanhtivii.xyz:8080/boxhits/mpegts
 #EXTINF:-1 tvg-id="man" group-title="📦| In The Box" tvg-logo="https://vthanh.xyz/ic/243.png", Man
 http://vn1.vthanhtivii.xyz:8080/man/mpegts
 #EXTINF:-1 tvg-id="drfithd" group-title="📦| In The Box" tvg-logo="https://vthanh.xyz/ic/196.png", Dr.Fit
