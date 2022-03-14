@@ -1,11 +1,4 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-id="kkidshd" group-title="K+ MyK+" tvg-logo="https://vthanh.xyz/ic/188.png", K+KIDS HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://license-sgn.solocoo.tv/wv?c=cpi%3A2%3AR9EJpUjn8JN0sN1KO7xhoOJKJ457W5hw3z0S7ca51cY%3AMTp7YzoiUW5xQVFzaG1jMHV1dnNSWGtLcUZMZ0FBQUFVIixsOiJ2aV9WTiIsbWY6MTYsb2Y6MSx0czoxNjQ3MjUyODg5OTg3LHU6IjFhMDdmOTQzLTg1OGUtNzZkMS03NDA2LWRkNDBmOTRkMzBiNCIsZGU6NixsZjowfQ
-#https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_kidshd/default/i.mpd
-
 #EXTINF:-1 tvg-id="ksport1hd" group-title="🍬 K+(VIP)" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KSPORT1.png", K+Sport 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
