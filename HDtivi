@@ -493,14 +493,14 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd2/index.m3u8|Referer=http:
 
 #EXTINF:-1 tvg-id="boxhits" group-title="📺|QUỐC TẾ" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/Kartica_BHits.jpg", Boxhits
 #http://192.53.113.67/Boxhits/index.m3u8
-https://pprex49o5aliv.vcdn.cloud/live/box-hits/chunklist_2.m3u8
+https://pprex49o5aliv.vcdn.cloud/28eebc9f32a11352ea7494a9d99bdf0a/1647495862000/live/box-hits/chunklist_2.m3u8
 
 #EXTINF:-1 tvg-id="boxhits" group-title="📺|QUỐC TẾ" tvg-logo="https://vthanh.xyz/ic/242.png", Box Hits
 http://vn1.vthanhtivii.xyz:8080/boxmovie1/mpegts
 
 #EXTINF:-1 tvg-id="inthebox" group-title="📺|QUỐC TẾ" tvg-logo="https://1.bp.blogspot.com/-i5iPMUP7o2Q/YP61PW6bvvI/AAAAAAAAMqI/1IEtRZwUGJYKbpWQngu7blgjmxuCmDwMgCNcBGAsYHQ/s0/kenh-inthebox-mien-phi-tren-vtvcab.jpg"  catchup="append" catchup-days="0.3" catchup-source="https://8387100975.vws.vegacdn.vn/live/box-channel/chunklist_2_${start}.m3u8", In The Box
 #http://192.53.113.67/Inthebox/index.m3u8
-https://pprex49o5aliv.vcdn.cloud/live/box-channel/chunklist_2.m3u8
+https://pprex49o5aliv.vcdn.cloud/28eebc9f32a11352ea7494a9d99bdf0a/1647495862000/live/box-channel/chunklist_2.m3u8
 
 #EXTINF:-1 tvg-id="animalhd" group-title="📺|QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/797px-Animal_Planet_logo.svg.png",Animal Planet (HD 8Mbps)
 https://livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b2500000.m3u8
