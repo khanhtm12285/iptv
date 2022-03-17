@@ -491,6 +491,9 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd2/index.m3u8|Referer=http:
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="📺|QUỐC TẾ" tvg-logo="https://rsstv.gviet.vn/sctv/157/707/1567068836041.png",HOLLYWOOD CLASSICS
 #http://192.53.113.67/Hollywool/index.m3u8
 
+#EXTINF:-1 tvg-id="hits" group-title="📺|QUỐC TẾ" tvg-logo="https://vthanh.xyz/ic/249.png", HITS
+https://api.vthanhtivii.xyz/v1/getlink/tv360/107/2
+
 #EXTINF:-1 tvg-id="boxhits" group-title="📺|QUỐC TẾ" tvg-logo="https://vthanh.xyz/ic/242.png", Box Hits
 http://vn1.vthanhtivii.xyz:8080/boxmovie1/mpegts
 
@@ -930,8 +933,6 @@ https://livecdn.fptplay.net/hda3/music_vhls.smil/chunklist_b5000000.m3u8
 http://vn1.vthanhtivii.xyz:8080/planetearth/mpegts
 #EXTINF:-1 tvg-id="woman" group-title="📦| In The Box" tvg-logo="https://vthanh.xyz/ic/197.png", Woman
 http://vn1.vthanhtivii.xyz:8080/woman/mpegts
-#EXTINF:-1 tvg-id="hits" group-title="📦| In The Box" tvg-logo="https://vthanh.xyz/ic/249.png", HITS
-https://api.vthanhtivii.xyz/v1/getlink/tv360/107/2
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
