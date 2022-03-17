@@ -454,7 +454,6 @@ https://e1.endpoint.cdn.sctvonline.vn/secure/sctv22/sd1/index.m3u8?md5=MP6PbU0wC
 #https://e1.endpoint.cdn.sctvonline.vn/hls/sctvphimtonghop/sd2/index.m3u8|Referer=http://sctvonline.vn/
 https://e1.endpoint.cdn.sctvonline.vn/secure/sctvphimtonghop/sd1/index.m3u8?md5=YtjAmEoXNzWyuoMM48a3Ug&expires=2556118740|Referer=http://sctvonline.vn/
 
-
 #EXTINF:-1 tvg-id="hbohd" group-title="📺|QUỐC TẾ" tvg-logo="https://fpthcm.com.vn/wp-content/uploads/2021/05/hbo.jpg",HBO HD
 https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b2500000.m3u8
 
@@ -1175,7 +1174,6 @@ http://127.0.0.1:6878/ace/getstream?id=7e745ca4df2e29ba0c0dc25af574442352f6c2dc
 #EXTINF:-1 tvg-id="tlc" group-title="♻️|Ace_Kênh Việt2",TLC HD
 http://127.0.0.1:6878/ace/getstream?id=d2bcb68cc9cb8e4b2bcf04f1b21a6abb208cffc9
 
-
 #EXTINF:-1 tvg-id="vtv1" tvg-logo="https://mytv.com.vn/upload/channel/1.png" group-title="♻️|Ace_Kênh Việt2",VTV1 HD1
 http://127.0.0.1:6878/ace/getstream?id=a1ce28e2ff61012aee23091f4d737b5ed4ac9152
 #EXTINF:-1 tvg-id="vtv1" tvg-logo="https://mytv.com.vn/upload/channel/1.png" group-title="♻️|Ace_Kênh Việt2",VTV1 HD2
@@ -1331,8 +1329,6 @@ http://127.0.0.1:6878/ace/getstream?id=899775d4bba3aa74280a4f57b08114affd948374
 http://127.0.0.1:6878/ace/getstream?id=cb7ec7de999e89d0235e35e85f528e46f66f238c
 #EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/281.png" group-title="♻️|Ace_Kênh Việt2",HOA BINH TV
 http://127.0.0.1:6878/ace/getstream?id=6d1ec2c76dcd36ec2a813604bc7b3ab8a48e883b
-
-
 
 #EXTINF:-1 group-title="ACEstream/VeboTV" tvg-logo="https://image-5.gapo.vn/images/8166dc49-93ba-4f42-ad93-b2490c226afc.jpeg",Vebo.TV1
 http://127.0.0.1:6878/ace/getstream?id=6a32506d04ca171ad76e100da8b5e62a875e94df
