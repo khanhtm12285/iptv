@@ -42,7 +42,7 @@ https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_lifehd/default/i.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://license-sgn.solocoo.tv/wv?c=cpi%3A2%3AIhwmB0z4SKsC75mExS24n-ACQMJXJ6RoPdCNcpmZ8_s%3AMTp7YzoiUW5xQVFzaG1jMHV1dnNSWGtLcUZMZ0FBQUFFIixsOiJ2aV9WTiIsbWY6MTYsb2Y6MSx0czoxNjQ3Njk1NTE2NDQ5LHU6IjVlODBjNDgxLTgyZDctYzhhZi0zYjU3LWI2OTk2ZjgyODNlZiIsZGU6MyxsZjowfQ
-https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_sport1hd/default/i.mpd
+https://sglivevng.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/i.mpd
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+" tvg-logo="https://vthanh.xyz/ic/98.png", K+SPORT2 HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
