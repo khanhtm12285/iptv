@@ -20,9 +20,9 @@ https://s8213.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay=1
 #KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=ZDRiMWQzOWMtYzM5My0zNzE3LWEwZmQtNGMzZWEzNDRhY2I4
 http://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
 #EXTINF:-1 tvg-id="ksport1hd" group-title="🍬K+(THỬ NGHIỆM)" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KSPORT1.png", K+Sport 1
-#http://206.189.37.79/sport1/tracks-v1a1/mono.m3u8
+http://206.189.37.79/sport1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="kkidshd" group-title="🍬K+(THỬ NGHIỆM)" tvg-logo="https://vthanh.xyz/ic/188.png", K+KIDS HD
-#http://206.189.37.79/Kisd/tracks-v1a1/mono.m3u8
+http://206.189.37.79/Kisd/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="vtvcab3hd" group-title="🍬K+(THỬ NGHIỆM)" tvg-logo="https://vtv1.mediacdn.vn/2021/9/7/photo-1-1630981223040446100091.jpg",VTVcab3
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
