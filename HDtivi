@@ -1,8 +1,26 @@
 #EXTM3U
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://cdn.hqth.me/tvpub.png", TVPub
+http://cvmedia.hqth.me:8080/tvpub/mpegts
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://cdn.hqth.me/atm.png", ATM
+http://cvmedia.hqth.me:8080/NTL/mpegts
+
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://img-zlr1.tv360.vn/image1/2022/03/22/14/1647934092598/779b73f8aa19_640_360.png", [TV360] U23 Dubai 1
 https://api.vthanhtivii.xyz/v1/getlink/tv360/2551/u23
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://img-zlr1.tv360.vn/image1/2022/03/22/14/1647934055229/0d65c0ac6100_640_360.png", [TV360] U23 Dubai 2
 https://api.vthanhtivii.xyz/v1/getlink/tv360/1/u23
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://img-zlr1.tv360.vn/image1/2022/03/22/14/1647934092598/779b73f8aa19_640_360.png", U23 Dubai 1
+http://vn1.vthanhtivii.xyz/dubai1
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://img-zlr1.tv360.vn/image1/2022/03/22/14/1647934055229/0d65c0ac6100_640_360.png", U23 Dubai 2
+http://vn1.vthanhtivii.xyz/dubai2
+
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://cdn.hqth.me/cvmedia.png", CVmedia Live 1
+http://cvmedia.hqth.me:8000/live1
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://cdn.hqth.me/cvmedia.png", CVmedia Live 2
+http://cvmedia.hqth.me:8000/live2
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://cdn.hqth.me/cvmedia.png", CVmedia Live 4K
+#http://cvmedia.hqth.me:8000/4KUHD
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://cdn.hqth.me/vthanhchannel.png", VThanh Channel
+#https://cdnspt.vthanh.xyz/VThanhChannel/mpegts
 #EXTINF:-1 tvg-id="hbohd" group-title="📺|XEM LẠI" tvg-logo="https://i.ibb.co/QkgRShZ/hbo-BEARTV.png" tvg-chno="31" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-3600.m3u8",HBO HD 🔄
 https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b2500000.m3u8
 
@@ -806,25 +824,27 @@ https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist_w1915921234.m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://vips-livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="hollywoodclassics" group-title="📦| In The Box" tvg-logo="https://vthanh.xyz/ic/193.png", Hollywood Classics
-http://vn1.vthanhtivii.xyz:8080/hollywoodclassics/mpegts
-#EXTINF:-1 tvg-id="inthebox" group-title="📦| In The Box" tvg-logo="https://vthanh.xyz/ic/241.png", In The Box
-http://vn1.vthanhtivii.xyz:8080/inthebox/mpegts
-#EXTINF:-1 tvg-id="boxhits" group-title="📦| In The Box" tvg-logo="https://vthanh.xyz/ic/242.png", Box Hits
-#http://vn1.vthanhtivii.xyz:8080/boxhits/mpegts
-#EXTINF:-1 tvg-id="man" group-title="📦| In The Box" tvg-logo="https://vthanh.xyz/ic/243.png", Man
-http://vn1.vthanhtivii.xyz:8080/man/mpegts
-#EXTINF:-1 tvg-id="drfithd" group-title="📦| In The Box" tvg-logo="https://vthanh.xyz/ic/196.png", Dr.Fit
-http://vn1.vthanhtivii.xyz:8080/drfit/mpegts
-#EXTINF:-1 tvg-id="happykids" group-title="📦| In The Box" tvg-logo="https://vthanh.xyz/ic/194.png", Happy Kids
-http://vn1.vthanhtivii.xyz:8080/happykids/mpegts
-#EXTINF:-1 tvg-id="musicbox" group-title="📦| In The Box" tvg-logo="https://vthanh.xyz/ic/240.png", Music Box
+#EXTINF:-1 tvg-id="boxmovie1" group-title="📦| In The Box" tvg-logo="http://vn1.vthanhtivii.xyz:8080/hls/ic/192.png", Box Movie 1
+http://vn1.vthanhtivii.xyz/boxmovie1
+#EXTINF:-1 tvg-id="hollywoodclassics" group-title="📦| In The Box" tvg-logo="http://vn1.vthanhtivii.xyz:8080/hls/ic/193.png", Hollywood Classics
+http://vn1.vthanhtivii.xyz/hollywoodclassics
+#EXTINF:-1 tvg-id="inthebox" group-title="📦| In The Box" tvg-logo="http://vn1.vthanhtivii.xyz:8080/hls/ic/241.png", In The Box
+http://vn1.vthanhtivii.xyz/inthebox
+#EXTINF:-1 tvg-id="boxhits" group-title="📦| In The Box" tvg-logo="http://vn1.vthanhtivii.xyz:8080/hls/ic/242.png", Box Hits
+http://vn1.vthanhtivii.xyz/boxhits
+#EXTINF:-1 tvg-id="man" group-title="📦| In The Box" tvg-logo="http://vn1.vthanhtivii.xyz:8080/hls/ic/243.png", Man
+http://vn1.vthanhtivii.xyz/man
+#EXTINF:-1 tvg-id="drfithd" group-title="📦| In The Box" tvg-logo="http://vn1.vthanhtivii.xyz:8080/hls/ic/196.png", Dr.Fit
+http://vn1.vthanhtivii.xyz/drfit
+#EXTINF:-1 tvg-id="happykids" group-title="📦| In The Box" tvg-logo="http://vn1.vthanhtivii.xyz:8080/hls/ic/194.png", Happy Kids
+http://vn1.vthanhtivii.xyz/happykids
+#EXTINF:-1 tvg-id="musicbox" group-title="📦| In The Box" tvg-logo="http://vn1.vthanhtivii.xyz:8080/hls/ic/240.png", Music Box
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda3/music_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="planetearthhd" group-title="📦| In The Box" tvg-logo="https://vthanh.xyz/ic/195.png", Planet Earth
-http://vn1.vthanhtivii.xyz:8080/planetearth/mpegts
-#EXTINF:-1 tvg-id="woman" group-title="📦| In The Box" tvg-logo="https://vthanh.xyz/ic/197.png", Woman
-http://vn1.vthanhtivii.xyz:8080/woman/mpegts
+#EXTINF:-1 tvg-id="planetearthhd" group-title="📦| In The Box" tvg-logo="http://vn1.vthanhtivii.xyz:8080/hls/ic/195.png", Planet Earth
+http://vn1.vthanhtivii.xyz/planetearth
+#EXTINF:-1 tvg-id="woman" group-title="📦| In The Box" tvg-logo="http://vn1.vthanhtivii.xyz:8080/hls/ic/197.png", Woman
+http://vn1.vthanhtivii.xyz/woman
 
 #EXTINF:-1 tvg-id="hbo" tvg-logo="https://fpthcm.com.vn/wp-content/uploads/2021/05/hbo.jpg" group-title="♻️|Ace_Kênh Việt2",HBO HD
 http://127.0.0.1:6878/ace/getstream?id=896570e72a165769e4c7c5564421462522326c99
