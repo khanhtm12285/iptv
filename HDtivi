@@ -1,21 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+" tvg-logo="http://vn1.vthanhtivii.xyz:8080/hls/ic/97.png", K+SPORT1 HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://license-sgn.solocoo.tv/wv?c=cpi%3A2%3ARv6iraTLeQuzJTdysnLCLCd7zO3tDmz5HtaRs3Lsao0%3AMTp7YzoiUW5xQVFzaG1jMHV1dnNSWGtLcUZMZ0FBQUFFIixsOiJ2aV9WTiIsbWY6MTYsb2Y6MSx0czoxNjQ4MzM4NDU4NzkzLHU6IjVlODBjNDgxLTgyZDctYzhhZi0zYjU3LWI2OTk2ZjgyODNlZiIsZGU6MyxsZjowfQ
-https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_sport1hd/default/i.mpd
-
-#EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+" tvg-logo="http://vn1.vthanhtivii.xyz:8080/hls/ic/98.png", K+SPORT2 HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://license-sgn.solocoo.tv/wv?c=cpi%3A2%3AmMgT2FO9NaY8JXQ4-65E3rrJojze6E28gEiRQN-fgEE%3AMTp7YzoiUW5xQVFzaG1jMHV1dnNSWGtLcUZMZ0FBQUFJIixsOiJ2aV9WTiIsbWY6MTYsb2Y6MSx0czoxNjQ4MzM4NDU5NjQxLHU6IjVlODBjNDgxLTgyZDctYzhhZi0zYjU3LWI2OTk2ZjgyODNlZiIsZGU6MyxsZjowfQ
-https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_sport2hd/default/i.mpd
-
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://cdn.hqth.me/tvpub.png", TVPub
-http://cvmedia.hqth.me:8080/tvpub/mpegts
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://cdn.hqth.me/atm.png", ATM
-http://cvmedia.hqth.me:8080/NTL/mpegts
-
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://img-zlr1.tv360.vn/image1/2022/03/22/14/1647934092598/779b73f8aa19_640_360.png", [TV360] U23 Dubai 1
 https://api.vthanhtivii.xyz/v1/getlink/tv360/2551/u23
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://img-zlr1.tv360.vn/image1/2022/03/22/14/1647934055229/0d65c0ac6100_640_360.png", [TV360] U23 Dubai 2
@@ -25,14 +8,6 @@ http://vn1.vthanhtivii.xyz/dubai1
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://img-zlr1.tv360.vn/image1/2022/03/22/14/1647934055229/0d65c0ac6100_640_360.png", U23 Dubai 2
 http://vn1.vthanhtivii.xyz/dubai2
 
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://cdn.hqth.me/cvmedia.png", CVmedia Live 1
-http://cvmedia.hqth.me:8000/live1
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://cdn.hqth.me/cvmedia.png", CVmedia Live 2
-http://cvmedia.hqth.me:8000/live2
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://cdn.hqth.me/cvmedia.png", CVmedia Live 4K
-#http://cvmedia.hqth.me:8000/4KUHD
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://cdn.hqth.me/vthanhchannel.png", VThanh Channel
-#https://cdnspt.vthanh.xyz/VThanhChannel/mpegts
 #EXTINF:-1 tvg-id="hbohd" group-title="📺|XEM LẠI" tvg-logo="https://i.ibb.co/QkgRShZ/hbo-BEARTV.png" tvg-chno="31" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-3600.m3u8",HBO HD 🔄
 https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b2500000.m3u8
 
