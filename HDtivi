@@ -807,26 +807,26 @@ https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist_w1915921234.m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://vips-livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="boxmovie1" group-title="📦| In The Box" tvg-logo="http://vn1.vthanhtivii.xyz:8080/hls/ic/192.png", Box Movie 1
+#EXTINF:-1 tvg-id="boxmovie1" group-title="📺|QUỐC TẾ" tvg-logo="http://vn1.vthanhtivii.xyz:8080/hls/ic/192.png", Box Movie 1
 http://vn1.vthanhtivii.xyz/boxmovie1
-#EXTINF:-1 tvg-id="hollywoodclassics" group-title="📦| In The Box" tvg-logo="http://vn1.vthanhtivii.xyz:8080/hls/ic/193.png", Hollywood Classics
+#EXTINF:-1 tvg-id="hollywoodclassics" group-title="📺|QUỐC TẾ" tvg-logo="http://vn1.vthanhtivii.xyz:8080/hls/ic/193.png", Hollywood Classics
 http://vn1.vthanhtivii.xyz/hollywoodclassics
-#EXTINF:-1 tvg-id="inthebox" group-title="📦| In The Box" tvg-logo="http://vn1.vthanhtivii.xyz:8080/hls/ic/241.png", In The Box
+#EXTINF:-1 tvg-id="inthebox" group-title="📺|QUỐC TẾ" tvg-logo="http://vn1.vthanhtivii.xyz:8080/hls/ic/241.png", In The Box
 http://vn1.vthanhtivii.xyz/inthebox
-#EXTINF:-1 tvg-id="boxhits" group-title="📦| In The Box" tvg-logo="http://vn1.vthanhtivii.xyz:8080/hls/ic/242.png", Box Hits
+#EXTINF:-1 tvg-id="boxhits" group-title="📺|QUỐC TẾ" tvg-logo="http://vn1.vthanhtivii.xyz:8080/hls/ic/242.png", Box Hits
 http://vn1.vthanhtivii.xyz/boxhits
-#EXTINF:-1 tvg-id="man" group-title="📦| In The Box" tvg-logo="http://vn1.vthanhtivii.xyz:8080/hls/ic/243.png", Man
+#EXTINF:-1 tvg-id="man" group-title="📺|QUỐC TẾ" tvg-logo="http://vn1.vthanhtivii.xyz:8080/hls/ic/243.png", Man
 http://vn1.vthanhtivii.xyz/man
-#EXTINF:-1 tvg-id="drfithd" group-title="📦| In The Box" tvg-logo="http://vn1.vthanhtivii.xyz:8080/hls/ic/196.png", Dr.Fit
+#EXTINF:-1 tvg-id="drfithd" group-title="📺|QUỐC TẾ" tvg-logo="http://vn1.vthanhtivii.xyz:8080/hls/ic/196.png", Dr.Fit
 http://vn1.vthanhtivii.xyz/drfit
-#EXTINF:-1 tvg-id="happykids" group-title="📦| In The Box" tvg-logo="http://vn1.vthanhtivii.xyz:8080/hls/ic/194.png", Happy Kids
+#EXTINF:-1 tvg-id="happykids" group-title="📺|QUỐC TẾ" tvg-logo="http://vn1.vthanhtivii.xyz:8080/hls/ic/194.png", Happy Kids
 http://vn1.vthanhtivii.xyz/happykids
-#EXTINF:-1 tvg-id="musicbox" group-title="📦| In The Box" tvg-logo="http://vn1.vthanhtivii.xyz:8080/hls/ic/240.png", Music Box
+#EXTINF:-1 tvg-id="musicbox" group-title="📺|QUỐC TẾ" tvg-logo="http://vn1.vthanhtivii.xyz:8080/hls/ic/240.png", Music Box
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda3/music_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="planetearthhd" group-title="📦| In The Box" tvg-logo="http://vn1.vthanhtivii.xyz:8080/hls/ic/195.png", Planet Earth
+#EXTINF:-1 tvg-id="planetearthhd" group-title="📺|QUỐC TẾ" tvg-logo="http://vn1.vthanhtivii.xyz:8080/hls/ic/195.png", Planet Earth
 http://vn1.vthanhtivii.xyz/planetearth
-#EXTINF:-1 tvg-id="woman" group-title="📦| In The Box" tvg-logo="http://vn1.vthanhtivii.xyz:8080/hls/ic/197.png", Woman
+#EXTINF:-1 tvg-id="woman" group-title="📺|QUỐC TẾ" tvg-logo="http://vn1.vthanhtivii.xyz:8080/hls/ic/197.png", Woman
 http://vn1.vthanhtivii.xyz/woman
 
 #EXTINF:-1 tvg-id="hbo" tvg-logo="https://fpthcm.com.vn/wp-content/uploads/2021/05/hbo.jpg" group-title="♻️|Ace_Kênh Việt2",HBO HD
