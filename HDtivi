@@ -6,6 +6,24 @@ https://api.vthanhtivii.xyz/v1/getlink/tv360/2551/u23
 https://api.vthanhtivii.xyz/v1/getlink/tv360/1/u23
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://lis7vmcv2kobj.vcdn.cloud/Media/images/origin/vod/poster/18915.png", NetHub Thử Nghiệm
 https://api.vthanhtivii.xyz/v1/getlink/nethub?id=nethub-thu-nghiem&cl=1&b=3
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/1280x720x1645063485/cmc_new/img.live_channel/0/0/0/0/229.jpg", ClipTV Nhạc Việt đặc sắc
+http://103.214.9.53/cliptv1
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/1280x720x1645063485/cmc_new/img.live_channel/0/0/0/0/209.jpg", ClipTV Phim châu Á
+http://103.214.9.53/cliptv2
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/1280x720x1645063485/cmc_new/img.live_channel/0/0/0/0/208.jpg", ClipTV Phim hài hước
+http://103.214.9.53/cliptv3
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/1280x720x1645063485/cmc_new/img.live_channel/0/0/0/0/187.jpg", ClipTV Phim hành động
+http://103.214.9.53/cliptv4
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/1280x720x1645063485/cmc_new/img.live_channel/0/0/0/0/207.jpg", ClipTV Phim ma kinh dị
+http://103.214.9.53/cliptv5
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/1280x720x1645063485/cmc_new/img.live_channel/0/0/0/0/210.jpg", ClipTV Phim rạp Việt
+http://103.214.9.53/cliptv6
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/1280x720x1645063485/cmc_new/img.live_channel/0/0/0/0/218.jpg", ClipTV Phim thiếu nhi
+http://103.214.9.53/cliptv7
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/1280x720x1645063485/cmc_new/img.live_channel/0/0/0/0/228.jpg", ClipTV Hài hay chọn lọc
+http://103.214.9.53/cliptv8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/1280x720x1645063485/cmc_new/img.live_channel/0/0/0/0/211.jpg", ClipTV Phim tình cảm lãng mạn
+http://103.214.9.53/cliptv9
 
 #EXTINF:-1 tvg-id="hbohd" group-title="📺|XEM LẠI" tvg-logo="https://i.ibb.co/QkgRShZ/hbo-BEARTV.png" tvg-chno="31" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-3600.m3u8",HBO HD 🔄
 https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b2500000.m3u8
