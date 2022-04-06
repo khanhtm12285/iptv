@@ -1,4 +1,22 @@
 #EXTM3U
+#EXTINF:-1, VTV1 HD
+http://live.japannettv.net/VTV1/mpegts
+#EXTINF:-1, VTV2 HD
+http://live.japannettv.net/VTV2/mpegts
+#EXTINF:-1, VTV3 HD
+http://live.japannettv.net/VTV3/mpegts
+#EXTINF:-1, VTV4 SD
+http://live.japannettv.net/VTV4/mpegts
+#EXTINF:-1, VTV5 HD
+http://live.japannettv.net/VTV5/mpegts
+#EXTINF:-1, VTV6 HD
+http://live.japannettv.net/VTV6/mpegts
+#EXTINF:-1, VTV7 SD
+http://live.japannettv.net/VTV7/mpegts
+#EXTINF:-1, VTV8 HD
+http://live.japannettv.net/VTV8/mpegts
+#EXTINF:-1, VTV9 HD
+http://live.japannettv.net/VTV9/mpegts
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://img-zlr1.tv360.vn/image1/2022/03/22/14/1647934092598/779b73f8aa19_640_360.png", [TV360] U23 Dubai 1
 https://api.vthanhtivii.xyz/v1/getlink/tv360/2551/u23
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://img-zlr1.tv360.vn/image1/2022/03/22/14/1647934055229/0d65c0ac6100_640_360.png", [TV360] U23 Dubai 2
