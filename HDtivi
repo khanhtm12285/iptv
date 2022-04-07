@@ -32,24 +32,6 @@ http://cdn.socolacdn.online:80/warnertv/index.m3u8
 #EXTINF:-1,Animaxvn
 http://cdn.socolacdn.online:80/Animaxvn/index.m3u8
 
-#EXTINF:-1, VTV1 HD
-http://cdn.socolacdn.online/VTV1/mpegts
-#EXTINF:-1, VTV2 HD
-http://cdn.socolacdn.online/VTV2/mpegts
-#EXTINF:-1, VTV3 HD
-http://cdn.socolacdn.online/VTV3/mpegts
-#EXTINF:-1, VTV4 SD
-http://cdn.socolacdn.online/VTV4/mpegts
-#EXTINF:-1, VTV5 HD
-http://cdn.socolacdn.online/VTV5/mpegts
-#EXTINF:-1, VTV6 HD
-http://cdn.socolacdn.online/VTV6/mpegts
-#EXTINF:-1, VTV7 SD
-http://cdn.socolacdn.online/VTV7/mpegts
-#EXTINF:-1, VTV8 HD
-http://cdn.socolacdn.online/VTV8/mpegts
-#EXTINF:-1, VTV9 HD
-http://cdn.socolacdn.online/VTV9/mpegts
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://img-zlr1.tv360.vn/image1/2022/03/22/14/1647934092598/779b73f8aa19_640_360.png", [TV360] U23 Dubai 1
 https://api.vthanhtivii.xyz/v1/getlink/tv360/2551/u23
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://img-zlr1.tv360.vn/image1/2022/03/22/14/1647934055229/0d65c0ac6100_640_360.png", [TV360] U23 Dubai 2
