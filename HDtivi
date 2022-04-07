@@ -1,4 +1,37 @@
 #EXTM3U
+#EXTINF:-1,boxmovie
+http://cdn.socolacdn.online/boxmovie/index.m3u8
+#EXTINF:-1,inthebox
+http://cdn.socolacdn.online/inthebox/index.m3u8
+#EXTINF:-1,man
+http://cdn.socolacdn.online/man/index.m3u8
+#EXTINF:-1,CN
+http://cdn.socolacdn.online/cartoonnetwork/index.m3u8
+#EXTINF:-1,boomerang
+http://cdn.socolacdn.online/boomerang/index.m3u8
+#EXTINF:-1,dr-fit
+http://cdn.socolacdn.online/dr-fit/index.m3u8
+#EXTINF:-1,boxhit
+http://cdn.socolacdn.online:80/boxhit/index.m3u8
+#EXTINF:-1,happykid
+http://cdn.socolacdn.online:80/happykid/index.m3u8
+#EXTINF:-1,hollywood
+http://cdn.socolacdn.online:80/hollywood-classics/index.m3u8
+#EXTINF:-1,Musicbox
+http://cdn.socolacdn.online:80/Musicbox/index.m3u8
+#EXTINF:-1,Axn
+http://cdn.socolacdn.online:80/Axn/index.m3u8
+#EXTINF:-1,planet
+http://cdn.socolacdn.online:80/planet-earth/index.m3u8
+#EXTINF:-1,Cinema
+http://cdn.socolacdn.online:80/Cinema-world/index.m3u8
+#EXTINF:-1,Cinemax
+http://cdn.socolacdn.online:80/Cinemax/index.m3u8
+#EXTINF:-1,warnertv
+http://cdn.socolacdn.online:80/warnertv/index.m3u8
+#EXTINF:-1,Animaxvn
+http://cdn.socolacdn.online:80/Animaxvn/index.m3u8
+
 #EXTINF:-1, VTV1 HD
 http://cdn.socolacdn.online/VTV1/mpegts
 #EXTINF:-1, VTV2 HD
