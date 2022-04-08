@@ -1,35 +1,4 @@
 #EXTM3U
-#EXTINF:-1,boxmovie
-http://cdn.socolacdn.online/boxmovie/index.m3u8
-#EXTINF:-1,inthebox
-http://cdn.socolacdn.online/inthebox/index.m3u8
-#EXTINF:-1,man
-http://cdn.socolacdn.online/man/index.m3u8
-#EXTINF:-1,CN
-http://cdn.socolacdn.online/cartoonnetwork/index.m3u8
-#EXTINF:-1,boomerang
-http://cdn.socolacdn.online/boomerang/index.m3u8
-#EXTINF:-1,dr-fit
-http://cdn.socolacdn.online/dr-fit/index.m3u8
-#EXTINF:-1,boxhit
-http://cdn.socolacdn.online:80/boxhit/index.m3u8
-#EXTINF:-1,happykid
-http://cdn.socolacdn.online:80/happykid/index.m3u8
-#EXTINF:-1,hollywood
-http://cdn.socolacdn.online:80/hollywood-classics/index.m3u8
-#EXTINF:-1,Musicbox
-http://cdn.socolacdn.online:80/Musicbox/index.m3u8
-#EXTINF:-1,Axn
-http://cdn.socolacdn.online:80/Axn/index.m3u8
-#EXTINF:-1,planet
-http://cdn.socolacdn.online:80/planet-earth/index.m3u8
-#EXTINF:-1,Cinema
-http://cdn.socolacdn.online:80/Cinema-world/index.m3u8
-#EXTINF:-1,Cinemax
-http://cdn.socolacdn.online:80/Cinemax/index.m3u8
-#EXTINF:-1,warnertv
-http://cdn.socolacdn.online:80/warnertv/index.m3u8
-#EXTINF:-1,Animaxvn
 http://cdn.socolacdn.online:80/Animaxvn/index.m3u8
 #EXTINF:-1 tvg-id="hbohd" group-title="📺|XEM LẠI" tvg-logo="https://i.ibb.co/QkgRShZ/hbo-BEARTV.png" tvg-chno="31" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-3600.m3u8",HBO HD 🔄
 https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b2500000.m3u8
@@ -844,26 +813,35 @@ https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist_w1915921234.m3u
 https://vips-livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="boxmovie1" group-title="📺|QUỐC TẾ" tvg-logo="http://vn1.vthanhtivii.xyz:8080/hls/ic/192.png", Box Movie 1
-http://vn1.vthanhtivii.xyz/boxmovie1
+#http://vn1.vthanhtivii.xyz/boxmovie1
+http://cdn.socolacdn.online/boxmovie/index.m3u8
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="📺|QUỐC TẾ" tvg-logo="http://vn1.vthanhtivii.xyz:8080/hls/ic/193.png", Hollywood Classics
-http://vn1.vthanhtivii.xyz/hollywoodclassics
+#http://vn1.vthanhtivii.xyz/hollywoodclassics
+http://cdn.socolacdn.online:80/hollywood-classics/index.m3u8
 #EXTINF:-1 tvg-id="inthebox" group-title="📺|QUỐC TẾ" tvg-logo="http://vn1.vthanhtivii.xyz:8080/hls/ic/241.png", In The Box
-http://vn1.vthanhtivii.xyz/inthebox
+#http://vn1.vthanhtivii.xyz/inthebox
+http://cdn.socolacdn.online/inthebox/index.m3u8
 #EXTINF:-1 tvg-id="boxhits" group-title="📺|QUỐC TẾ" tvg-logo="http://vn1.vthanhtivii.xyz:8080/hls/ic/242.png", Box Hits
-http://vn1.vthanhtivii.xyz/boxhits
+#http://vn1.vthanhtivii.xyz/boxhits
+http://cdn.socolacdn.online:80/boxhit/index.m3u8
 #EXTINF:-1 tvg-id="man" group-title="📺|QUỐC TẾ" tvg-logo="http://vn1.vthanhtivii.xyz:8080/hls/ic/243.png", Man
-http://vn1.vthanhtivii.xyz/man
+#http://vn1.vthanhtivii.xyz/man
+http://cdn.socolacdn.online/man/index.m3u8
 #EXTINF:-1 tvg-id="drfithd" group-title="📺|QUỐC TẾ" tvg-logo="http://vn1.vthanhtivii.xyz:8080/hls/ic/196.png", Dr.Fit
-http://vn1.vthanhtivii.xyz/drfit
+#http://vn1.vthanhtivii.xyz/drfit
+http://cdn.socolacdn.online/dr-fit/index.m3u8
 #EXTINF:-1 tvg-id="happykids" group-title="📺|QUỐC TẾ" tvg-logo="http://vn1.vthanhtivii.xyz:8080/hls/ic/194.png", Happy Kids
-http://vn1.vthanhtivii.xyz/happykids
+#http://vn1.vthanhtivii.xyz/happykids
+http://cdn.socolacdn.online:80/happykid/index.m3u8
 #EXTINF:-1 tvg-id="musicbox" group-title="📺|QUỐC TẾ" tvg-logo="http://vn1.vthanhtivii.xyz:8080/hls/ic/240.png", Music Box
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda3/music_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="planetearthhd" group-title="📺|QUỐC TẾ" tvg-logo="http://vn1.vthanhtivii.xyz:8080/hls/ic/195.png", Planet Earth
-http://vn1.vthanhtivii.xyz/planetearth
+#http://vn1.vthanhtivii.xyz/planetearth
+http://cdn.socolacdn.online:80/planet-earth/index.m3u8
 #EXTINF:-1 tvg-id="woman" group-title="📺|QUỐC TẾ" tvg-logo="http://vn1.vthanhtivii.xyz:8080/hls/ic/197.png", Woman
-http://vn1.vthanhtivii.xyz/woman
+#http://vn1.vthanhtivii.xyz/woman
+
 
 #EXTINF:-1 tvg-id="hbo" tvg-logo="https://fpthcm.com.vn/wp-content/uploads/2021/05/hbo.jpg" group-title="♻️|Ace_Kênh Việt2",HBO HD
 http://127.0.0.1:6878/ace/getstream?id=896570e72a165769e4c7c5564421462522326c99
