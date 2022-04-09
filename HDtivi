@@ -842,6 +842,56 @@ http://cdn.socolacdn.online:80/planet-earth/index.m3u8
 #http://vn1.vthanhtivii.xyz/woman
 
 
+#EXTINF:-1 tvg-id="boxmovie1" group-title="📺|QUỐC TẾ" tvg-logo="http://vn1.vthanhtivii.xyz:8080/hls/ic/192.png", Box Movie 1
+http://cdn.socolacdn.online/boxmovie/index.m3u8
+
+#EXTINF:-1 tvg-id="inthebox" group-title="📺|QUỐC TẾ" tvg-logo="http://vn1.vthanhtivii.xyz:8080/hls/ic/241.png", In The Box
+http://cdn.socolacdn.online/inthebox/index.m3u8
+
+#EXTINF:-1 tvg-id="boxhits" group-title="📺|QUỐC TẾ" tvg-logo="http://vn1.vthanhtivii.xyz:8080/hls/ic/242.png", Box Hits
+http://cdn.socolacdn.online:80/boxhit/index.m3u8
+
+#EXTINF:-1 tvg-id="man" group-title="📺|QUỐC TẾ" tvg-logo="http://vn1.vthanhtivii.xyz:8080/hls/ic/243.png", Man
+http://cdn.socolacdn.online/man/index.m3u8
+
+#EXTINF:-1 tvg-id="cartoonhd" group-title="📺|QUỐC TẾ" tvg-logo="https://mpng.subpng.com/20180404/avq/kisspng-cartoon-network-logo-television-animation-cartoon-network-5ac59e4556f2f6.8778586515229005493562.jpg",CARTOON NETWORK
+http://cdn.socolacdn.online/cartoonnetwork/index.m3u8
+
+#EXTINF:-1 tvg-id="boomerang" group-title="📺|QUỐC TẾ" tvg-logo="https://banner2.cleanpng.com/20180721/aq/kisspng-boomerang-logo-television-channel-tom-and-jerry-dog-5b53c4af10de42.3513045215322164950691.jpg",BOOMERANG (HD 8Mbps)
+http://cdn.socolacdn.online/boomerang/index.m3u8
+
+#EXTINF:-1 tvg-id="hollywoodclassics" group-title="📺|QUỐC TẾ" tvg-logo="http://vn1.vthanhtivii.xyz:8080/hls/ic/193.png", Hollywood Classics
+http://cdn.socolacdn.online:80/hollywood-classics/index.m3u8
+
+#EXTINF:-1 tvg-id="drfithd" group-title="📺|QUỐC TẾ" tvg-logo="http://vn1.vthanhtivii.xyz:8080/hls/ic/196.png", Dr.Fit
+http://cdn.socolacdn.online/dr-fit/index.m3u8
+
+#EXTINF:-1 tvg-id="happykids" group-title="📺|QUỐC TẾ" tvg-logo="http://vn1.vthanhtivii.xyz:8080/hls/ic/194.png", Happy Kids
+#http://vn1.vthanhtivii.xyz/happykids
+http://cdn.socolacdn.online:80/happykid/index.m3u8
+#EXTINF:-1 tvg-id="musicbox" group-title="📺|QUỐC TẾ" tvg-logo="http://vn1.vthanhtivii.xyz:8080/hls/ic/240.png", Music Box
+#EXTVLCOPT:http-user-agent=VThanhTivi
+#https://livecdn.fptplay.net/hda3/music_vhls.smil/chunklist_b5000000.m3u8
+http://cdn.socolacdn.online:80/Musicbox/index.m3u8
+
+#EXTINF:-1 tvg-id="planetearthhd" group-title="📺|QUỐC TẾ" tvg-logo="http://vn1.vthanhtivii.xyz:8080/hls/ic/195.png", Planet Earth
+http://cdn.socolacdn.online:80/planet-earth/index.m3u8
+
+#EXTINF:-1 tvg-id="axnhd" group-title="📺|QUỐC TẾ" tvg-logo="https://img.hplus.com.vn/728x409/banner/2018/06/05/774032-axn.png",AXN HD
+http://cdn.socolacdn.online:80/Axn/index.m3u8
+
+#EXTINF:-1 tvg-id="cinemaworldhd" group-title="📺|QUỐC TẾ" tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/11/CMW-gold-logo-for-website-loading.png",Cinema World HD
+http://cdn.socolacdn.online:80/Cinema-world/index.m3u8
+
+#EXTINF:-1 tvg-id="cinemaxhd" group-title="📺|QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png",CINEMAX HD
+http://cdn.socolacdn.online:80/Cinemax/index.m3u8
+
+#EXTINF:-1 tvg-id="warnertvhd" group-title="📺|QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" ,WBTV HD
+http://cdn.socolacdn.online:80/warnertv/index.m3u8
+
+#EXTINF:-1 tvg-id="animaxhd" group-title="📺|QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1200px-Animax.svg.png",Animax HD
+http://cdn.socolacdn.online:80/Animaxvn/index.m3u8
+
 #EXTINF:-1 tvg-id="hbo" tvg-logo="https://fpthcm.com.vn/wp-content/uploads/2021/05/hbo.jpg" group-title="♻️|Ace_Kênh Việt2",HBO HD
 http://127.0.0.1:6878/ace/getstream?id=896570e72a165769e4c7c5564421462522326c99
 #http://127.0.0.1:6878/ace/getstream?id=cacbcf8c81f6076be91f01ae80106f9241a0a29d
