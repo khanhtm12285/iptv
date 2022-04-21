@@ -1,6 +1,7 @@
 #EXTM3U url-tvg="http://gg.gg/epgvn03"
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static2.vieon.vn/vieplay-image/avatar/2021/09/30/8ibgqkog_k_cine.png",K+ Cine HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=2c1888024a483a48b98b48cc13ffb39c&key=31484c8cd4568bbb61101abc0f991f5f
 https://sgn-vnpt-001-livecdn-vthn2-vnd.vieon.vn/2e60c5c6ce536e210ee866a67dc9b504/1650587161744/wz/livetv_origin_drm/kplus_sport_1_22_08_2021_android.smil/manifest.mpd
