@@ -4,7 +4,7 @@
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3c642e860abe3dfa8ac89700f7706fa8&key=0b59ba858c1b7cf2244c576da2762c82
 https://sgn-vnpt-002-livecdn-vthn2-vnd.vieon.vn/63b9aadfe34669091fc0668f7555af35/1650668155361/wz/livetv_origin_drm/kplus_phongcach_22_08_2021_android.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="kcinehd" group-title="🍭K+(THỬ NGHIỆM)" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KCINE.png", K+Cine
+#EXTINF:-1 tvg-id="kcinehd" group-title="KPLUS by VuMinhThanh " tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KCINE.png", K+Cine
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=2c1888024a483a48b98b48cc13ffb39c&key=31484c8cd4568bbb61101abc0f991f5f
 https://bsojv7x1zq.vcdn.com.vn/manifest/k-plus-1/playlist_720p.m3u8
@@ -13,10 +13,7 @@ https://bsojv7x1zq.vcdn.com.vn/manifest/k-plus-1/playlist_720p.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=a206df5390da319f9f33ba1fa48a4486&key=8961468cf643e32a94f52478016e5255
 https://sgn-fpt-002-livecdn-vthn2-vnd.vieon.vn/6d94f44bcc8344b0b15b42b1e2539c9f/1650626848151/wz/livetv_origin_drm/kplus_nhipsong_22_08_2021.smil/manifest.mpd
-#EXTINF:-1 tvg-id="kkids" group-title="KPLUS by VuMinhThanh " tvg-logo="https://static2.vieon.vn/vieplay-image/avatar/2022/03/03/02qir9yg_livetv-ngang.png",K+ Kids HD (VieON)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5fdac051879d3037a9d23986151e716f&key=892383f1b0b06374f746fa85e1f1627e
-https://sgn-vnpt-001-livecdn-vthn2-vnd.vieon.vn/5d85180ab7a8be77f0a9324c1230fc18/1650636753142/wz/livetv_origin_drm/kplus_kid_22_08_2021.smil/manifest.mpd
+
 #EXTINF:-1 tvg-id="ksport1" group-title="KPLUS by VuMinhThanh" tvg-logo="https://static2.vieon.vn/vieplay-image/avatar/2021/09/30/9i7b52um_sport1.png",K+ Sport1 HD (VieON)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=009c20b9c1623450b03d6f578e7e9130&key=573de0eab4776395b84548d637be5982
