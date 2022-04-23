@@ -7,12 +7,12 @@ https://sgn-vnpt-002-livecdn-vthn2-vnd.vieon.vn/63b9aadfe34669091fc0668f7555af35
 #EXTINF:-1 tvg-id="kcinehd" group-title="KPLUS by VuMinhThanh " tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KCINE.png", K+Cine
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=2c1888024a483a48b98b48cc13ffb39c&key=31484c8cd4568bbb61101abc0f991f5f
-https://bsojv7x1zq.vcdn.com.vn/manifest/k-plus-1/playlist_720p.m3u8
+https://sgn-vnpt-001-livecdn-vthn2-vnd.vieon.vn/4815e44bf50b33e9e8ada28dea2d3ad8/1650758273230/wz/livetv_origin_drm/kplus_1_22_08_2021_android.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="klife" group-title="KPLUS by VuMinhThanh " tvg-logo="https://static2.vieon.vn/vieplay-image/avatar/2021/09/30/pkscwfe3_k_life.png",K+ Life HD (VieON)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=a206df5390da319f9f33ba1fa48a4486&key=8961468cf643e32a94f52478016e5255
-https://sgn-fpt-002-livecdn-vthn2-vnd.vieon.vn/6d94f44bcc8344b0b15b42b1e2539c9f/1650626848151/wz/livetv_origin_drm/kplus_nhipsong_22_08_2021.smil/manifest.mpd
+https://sgn-vnpt-002-livecdn-vthn2-vnd.vieon.vn/ce15da966f375c4b1442d2a7fe92af4a/1650758384637/wz/livetv_origin_drm/kplus_nhipsong_22_08_2021_android.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="ksport1" group-title="KPLUS by VuMinhThanh" tvg-logo="https://static2.vieon.vn/vieplay-image/avatar/2021/09/30/9i7b52um_sport1.png",K+ Sport1 HD (VieON)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
