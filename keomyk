@@ -20,7 +20,7 @@ https://sgn-fpt-001-livecdn-vthn2-vnd.vieon.vn/9ac6a471af82d66173d513daf6b663c5/
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=009c20b9c1623450b03d6f578e7e9130&key=573de0eab4776395b84548d637be5982
 https://sgn-fpt-001-livecdn-vthn2-vnd.vieon.vn/4faec606e6b28bfcc097b2436e54485c/1650859937630/wz/livetv_origin_drm/kplus_sport_1_22_08_2021.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="ksport2" group-title=K+" tvg-logo="https://static2.vieon.vn/vieplay-image/avatar/2021/09/30/d0ed7vu0_sport2.png",K+ Sport2 HD (VieON)
+#EXTINF:-1 tvg-id="ksport2" group-title="K+" tvg-logo="https://static2.vieon.vn/vieplay-image/avatar/2021/09/30/d0ed7vu0_sport2.png",K+ Sport2 HD (VieON)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3c642e860abe3dfa8ac89700f7706fa8&key=0b59ba858c1b7cf2244c576da2762c82
 https://sgn-fpt-002-livecdn-vthn2-vnd.vieon.vn/b62ee18180523591df3f42c2e7622e1a/1650859953017/wz/livetv_origin_drm/kplus_phongcach_22_08_2021.smil/manifest.mpd
